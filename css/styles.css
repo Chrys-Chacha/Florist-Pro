@@ -1,6 +1,7 @@
 body {
     margin: 20px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: relative;
   }
   
   .topnav {
@@ -50,3 +51,7 @@ body {
       width: 100%;
     }
   };
+  /* footer */
+  #footer{
+    text-align: center;
+  }
