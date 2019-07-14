@@ -2,6 +2,7 @@ body {
     margin: 20px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     position: relative;
+    background-color: rgba(240, 255, 255, 0.918);
   }
   
   .topnav {
@@ -53,5 +54,6 @@ body {
   };
   /* footer */
   #footer{
-    text-align: center;
+    color: blue;
+    font-size: 10px;
   }
